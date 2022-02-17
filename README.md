@@ -21,10 +21,10 @@
 
 <!-- <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a> -->
 
-<a href="https://www.linkedin.com/in/navafkv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-navaf-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/navafkv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-navafkv-blue?style=flat-square&logo=linkedin"></a>
 
 
-<a href="mailto:mailnavaf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sauravkul0@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mailnavaf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mailnavaf@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
